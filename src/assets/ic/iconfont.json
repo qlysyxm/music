@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4493565",
+      "name": "播放器-暂停",
+      "font_class": "bofangqi-zanting",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "5327777",
+      "name": "我 的",
+      "font_class": "wode",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "5863187",
+      "name": "下一首",
+      "font_class": "xiayishou",
+      "unicode": "e504",
+      "unicode_decimal": 58628
+    },
+    {
+      "icon_id": "5863188",
+      "name": "上一首",
+      "font_class": "shangyishou",
+      "unicode": "e505",
+      "unicode_decimal": 58629
+    },
+    {
+      "icon_id": "9850877",
+      "name": "播放器播放",
+      "font_class": "xingzhuang",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "11563033",
+      "name": "icons／Music页面／播放模式／Play List(1)",
+      "font_class": "iconsMusicyemianbofangmoshiPlayList",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "11563036",
+      "name": "icons／Music页面／播放模式／Alrepeat One／焦点",
+      "font_class": "iconsMusicyemianbofangmoshiAlrepeatOnejiaodian",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "11563037",
+      "name": "icons／Music页面／播放模式／Repeat(1)",
+      "font_class": "iconsMusicyemianbofangmoshiRepeat",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "11563040",
+      "name": "icons／Music页面／播放模式／Shuffle(1)",
+      "font_class": "iconsMusicyemianbofangmoshiShuffle",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    }
+  ]
+}

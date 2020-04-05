@@ -1,0 +1,65 @@
+{
+  "id": "1550047",
+  "name": "vue music",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "444572",
+      "name": "随机播放",
+      "font_class": "suijibofang",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "1440640",
+      "name": "个人中心",
+      "font_class": "gerenzhongxin",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "5270852",
+      "name": "收 藏-产品详情",
+      "font_class": "shoucang",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "5345242",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "7417088",
+      "name": "随机播放",
+      "font_class": "suijibofang1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "9492000",
+      "name": "返 回",
+      "font_class": "back-ico",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11121365",
+      "name": "后退",
+      "font_class": "houtui",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "11121441",
+      "name": "前进",
+      "font_class": "qianjin",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    }
+  ]
+}

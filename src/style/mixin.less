@@ -1,0 +1,34 @@
+.w(@px){
+    width: unit(@px/@remSize,rem);
+}
+.h(@px){
+    height: unit(@px/@remSize,rem);
+}
+.t_c(){
+    text-align:center;
+}
+.l_h(@px){
+    line-height: unit(@px/@remSize,rem);
+}
+// 固定布局
+.fixed(@top,@bottom,@left,@right,@color){
+    position: fixed;
+    top:unit(@top/@remSize,rem);
+    bottom:unit(@bottom/@remSize,rem);
+    left:unit(@left/@remSize,rem);
+    right:unit(@right/@remSize,rem);
+    background: @color;
+}
+.margin(@top,@bottom,@left,@right){
+    margin-top:unit(@top/@remSize,rem);
+    margin-bottom: unit(@bottom/@remSize,rem);
+    margin-left: unit(@left/@remSize,rem);
+    margin-right: unit(@right/@remSize,rem);
+}
+.padding(@top,@bottom,@left,@right){
+    padding-top:unit(@top/@remSize,rem);
+    padding-bottom: unit(@bottom/@remSize,rem);
+    padding-left: unit(@left/@remSize,rem);
+    padding-right: unit(@right/@remSize,rem);
+}
+
